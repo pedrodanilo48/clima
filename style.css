@@ -15,7 +15,7 @@ body {
     background-image: url(img/planodefundo.png);
     background-size: cover;
 }
-footer{
+#textorodape{
     color: #333;
 }
 h1 {
