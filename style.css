@@ -15,7 +15,9 @@ body {
     background-image: url(img/planodefundo.png);
     background-size: cover;
 }
-
+footer{
+    color: #333;
+}
 h1 {
     color: #FFF;
     margin: 20px 0;
