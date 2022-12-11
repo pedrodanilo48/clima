@@ -27,6 +27,14 @@ h1 {
     display: flex;
     width: 300px;
 }
+#penguin {
+    width: 100px;
+    height: 100px;
+    object-position: 10px;
+    padding: 0%;
+    margin: 0%;
+    border: 0;
+}
 .busca #searchInput {
     flex: 1;
     padding: 10px;
